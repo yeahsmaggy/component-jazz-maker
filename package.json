@@ -1,0 +1,26 @@
+{
+  "name": "fast-html-mockups",
+  "version": "1.0.0",
+  "description": "Creating wireframes in the browser, quick mock ups.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeahsmaggy/fast-html-mockups.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeahsmaggy/fast-html-mockups/issues"
+  },
+  "homepage": "https://github.com/yeahsmaggy/fast-html-mockups#readme",
+  "devDependencies": {
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.2.3",
+    "gulp-sass": "^4.0.1"
+  }
+}
