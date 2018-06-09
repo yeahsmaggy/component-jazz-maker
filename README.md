@@ -2,7 +2,7 @@
 
 Creating wireframes in the browser, quick mock ups.
 
-## Requirements
+## Requirements
 
 - npm
 - gulp
