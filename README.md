@@ -1,6 +1,6 @@
 # Fast html mockups
 
-Creating wireframes in the browser, quick mock ups.
+Creating wireframes in the browser, quick mock ups. Edit template, css, js, and browser auto refreshes.
 
 ## Requirements
 
