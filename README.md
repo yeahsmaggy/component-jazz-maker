@@ -1,6 +1,18 @@
-# component-jazz-maker
-pug, gulp, sass, browsersync, fast mockup making
+# Fast html mockups
 
-Run gulp
+Creating wireframes in the browser, quick mock ups.
 
-Edit views/index.pug
+## Requirements
+
+- npm
+- gulp
+
+## Installation
+
+- git clone the repo
+- npm install in the folder
+
+## Use
+
+- run gulp
+- Edit views/index.pug
